@@ -29,25 +29,61 @@
 
 ---
 
-### 👋 About Me
+<h2>👋 About Me</h2>
 
-Hey, I'm **Tanish Rathore**, a CSE student at **IIIT Ranchi** who enjoys building web applications, exploring backend engineering, and turning ideas into real-world projects.
-
-Currently learning **Java, Spring Boot, Docker, and AWS**. Always curious, always building. 🚀
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,express,spring,mongodb,mysql,postgres,docker,aws,git,github&theme=dark" alt="Technologies: C++, Java, JavaScript, Python, React, Node.js, Express, Spring, MongoDB, MySQL, PostgreSQL, Docker, AWS, Git and GitHub" />
+<p>
+  Hey, I'm <strong>Tanish Rathore</strong>, a Computer Science and Engineering student at <strong>IIIT Ranchi</strong> who enjoys building web applications, exploring backend engineering, and turning ideas into real-world projects.
 </p>
 
-### 🌱 Currently Exploring
+<p>
+  Currently diving deeper into <strong>Java, Spring Boot, Docker, and AWS</strong>, while exploring system design and building projects to sharpen my skills.
+</p>
+
+---
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python&theme=dark" alt="C++, Java, JavaScript, Python" />
+</p>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, Vite" />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Node.js, Express.js, Spring" />
+  <img height="42" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Redis" />
+</p>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux&theme=dark" alt="Docker, Kubernetes, AWS, Git, GitHub, Linux" />
+</p>
+
+---
+
+<h3 align="center">🌱 Currently Exploring</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-Backend%20Engineering-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Java and Spring Boot" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Docker%20%26%20Kubernetes-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and Kubernetes" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS%20%26%20System%20Design-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS and System Design" />
 </p>
 
 ---
